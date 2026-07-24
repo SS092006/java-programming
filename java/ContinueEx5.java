@@ -7,7 +7,7 @@ public class ContinueEx5 {
 			if(a==3){
 				continue;
 			}
-			System.out.println("Shimle");
+			System.out.println("Solanki");
 		}while(a<=5);
 		System.out.println("Bye");
 	}
