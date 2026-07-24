@@ -1,7 +1,7 @@
 public class StringLiteralEx {
 
 	public static void main(String[] args) {
-		String s="Swati Shimle";
+		String s="Swati Solanki";
 //		String s='jdnfnsd';//Error
 //		String s=sdkjbds; //Error
 		String ss="123";
