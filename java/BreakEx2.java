@@ -5,7 +5,7 @@ public class BreakEx2 {
 			if(a==3){
 				break;
 			}
-			System.out.println("Shimle");
+			System.out.println("Solanki");
 		}
 		System.out.println("Bye");
 	}
