@@ -5,7 +5,7 @@ public class ContinueEx3 {
 			if(a++>3){
 				continue;
 			}
-			System.out.println("Shimle");
+			System.out.println("Solanki");
 		}
 		System.out.println("Bye");
 	} 
