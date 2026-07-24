@@ -6,7 +6,7 @@ public class BreakEx4 {
 			if(a++>3){
 				break;
 			}
-			System.out.println("Shimle");
+			System.out.println("Solanki");
 		}while(a<=5);
 		System.out.println("Bye");
 	}
