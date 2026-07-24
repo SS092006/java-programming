@@ -3,7 +3,7 @@ public class DoWhileLoopEx1 {
 		int n=5;
 		int a=1;
 		do {
-			System.out.println("Swati Shimle");
+			System.out.println("Swati Solanki");
 			a++;
 		}while(a>n);
 	}
